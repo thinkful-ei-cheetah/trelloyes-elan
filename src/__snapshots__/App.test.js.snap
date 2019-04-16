@@ -1,0 +1,424 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders the UI as expected 1`] = `
+<main
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <h1>
+      Hello Trelloyes!
+    </h1>
+  </header>
+  <div
+    className="App-list"
+  >
+    <div>
+      <section
+        className="list"
+      >
+        <header>
+          First list
+        </header>
+        <div
+          className="List-cards"
+        >
+          <div
+            className="Card"
+          >
+            <h3>
+              First card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Second card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Fifth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Sixth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Seventh card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Tenth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Twelth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Thirteenth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div>
+      <section
+        className="list"
+      >
+        <header>
+          Second list
+        </header>
+        <div
+          className="List-cards"
+        >
+          <div
+            className="Card"
+          >
+            <h3>
+              Second card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Third card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Fourth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Sixth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Eighth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Ninth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Eleventh card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div>
+      <section
+        className="list"
+      >
+        <header>
+          Third list
+        </header>
+        <div
+          className="List-cards"
+        >
+          <div
+            className="Card"
+          >
+            <h3>
+              First card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Second card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Third card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Fourth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Fifth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Sixth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Seventh card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Eighth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Ninth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Tenth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Eleventh card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Twelth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Thirteenth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div>
+      <section
+        className="list"
+      >
+        <header>
+          Fourth list
+        </header>
+        <div
+          className="List-cards"
+        >
+          <div
+            className="Card"
+          >
+            <h3>
+              Twelth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+          <div
+            className="Card"
+          >
+            <h3>
+              Thirteenth card
+            </h3>
+            <p>
+              lorem ipsum
+            </p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</main>
+`;
+
+exports[`Card component renders the UI as expected 1`] = `
+<div
+  className="Card"
+>
+  <h3>
+    Test
+  </h3>
+  <p>
+    Lorem ipsum
+  </p>
+</div>
+`;
+
+exports[`List component renders the UI as expected 1`] = `
+<div>
+  <section
+    className="list"
+  >
+    <header>
+      test
+    </header>
+    <div
+      className="List-cards"
+    >
+      <div
+        className="Card"
+      >
+        <h3 />
+        <p />
+      </div>
+      <div
+        className="Card"
+      >
+        <h3 />
+        <p />
+      </div>
+      <div
+        className="Card"
+      >
+        <h3 />
+        <p />
+      </div>
+      <div
+        className="Card"
+      >
+        <h3 />
+        <p />
+      </div>
+    </div>
+  </section>
+</div>
+`;

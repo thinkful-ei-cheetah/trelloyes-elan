@@ -7,6 +7,7 @@ import List from './composition/List';
 
 class App extends Component {
   render() {
+    console.log(STORE);
     const listArray = STORE.lists;
     const newListArray = listArray.map((item => <List key={item.id} header={item.header} cards={item.cardIds.map(id => STORE.allCards[id])}/> ))
     return (
